@@ -10,6 +10,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https://www.linkedin.com/in/jatin-khatter-7b7166217/"/>
   </a>
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JatinKhatter07&theme=dracula&hide_border=true)
 
   ---
 
