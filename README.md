@@ -1,5 +1,7 @@
 ### Hi there, I'm Jatin Khatter 👋
-
+<a href="https://JatinKhatter07.github.io">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://JatinKhatter07.github.io" />
+</a>
 
   <a title="jatinkhatter789@gmail.com" href="mailto:jatinkhatter789@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
