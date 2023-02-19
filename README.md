@@ -33,7 +33,7 @@
 </div>
 
 
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JatinKhatter07&theme=dracula&hide_border=true)
+   
 
 
  
