@@ -18,7 +18,7 @@
   ---
 
   ## I'm a Software Engineer and Life Long Learner!
-  - 🌱 I’m currently Learning Full Stack at Masai School.
+  - 🌱 I’m currently working as a Full-Stack developer at ZAG.
   - 🌏 Looking to solve real-world problems.
   - 💻 I'm passionate about making creative websites.
   
