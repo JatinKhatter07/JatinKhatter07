@@ -18,9 +18,11 @@
   ---
 
   ## I'm a Software Engineer and Life Long Learner!
-  - 🌱 I’m currently working as a Full-Stack developer at ZAG.
-  - 🌏 Looking to solve real-world problems.
+  - 👋 I'm Jatin Khatter, a passionate coder diving into the exciting world of software development.
+  - 🌏 I bring a fresh perspective and an eagerness to learn, work and grow.
   - 💻 I'm passionate about making creative websites.
+  - ❤️ It's the thrill of solving problems, the creativity in crafting solutions, and the endless possibilities that technology offers.
+  - ☕ Let's connect, collaborate, and build something awesome together! 💻✨
   
   - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
 
