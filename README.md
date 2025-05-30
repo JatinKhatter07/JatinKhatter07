@@ -1,13 +1,13 @@
 ### Hi there, I'm Jatin Khatter 👋
-<a href="https://JatinKhatter07.github.io">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://JatinKhatter07.github.io" />
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="" />
 </a>
 
-  <a title="jatinkhatter789@gmail.com" href="mailto:">
+  <a title="" href="mailto:">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="jatinkhatter789@gmail.com" />
+      alt="" />
   </a>
-  <a href="https://www.linkedin.com/in//">
+  <a href=/">
     <img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https:///"/>
